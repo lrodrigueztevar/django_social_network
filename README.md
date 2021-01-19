@@ -1,2 +1,2 @@
 # django_social_network
-project using Django for class practice.
+Class project using Django for practice.
